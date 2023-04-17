@@ -35,6 +35,11 @@
 		"on": "Linux",
 		"dc": "Desktop"
 	},
+	{
+		"regex": "!CrOS!i",
+		"on": "ChromeOS",
+		"dc": "Desktop",
+	},
 
 	{
 		"regex": "!MSIE ([.0-9]+)!i",
