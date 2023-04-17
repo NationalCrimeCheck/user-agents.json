@@ -38,7 +38,7 @@
 	{
 		"regex": "!CrOS!i",
 		"on": "ChromeOS",
-		"dc": "Desktop",
+		"dc": "Desktop"
 	},
 
 	{
